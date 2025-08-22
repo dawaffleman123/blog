@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brady Van Oss</title>
+    <link>http://localhost:1313/categories/tutorials/</link>
+    <description>Recent content on Brady Van Oss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contactme@vanoss.cloud (Brady Van Oss)</managingEditor>
+    <webMaster>contactme@vanoss.cloud (Brady Van Oss)</webMaster>
+    <copyright>© 2025 Brady Van Oss</copyright>
+    <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How To Set Up FSR on Astroneer With Proton on Linux </title>
+      <link>http://localhost:1313/posts/2025/astroneer-fsr/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>contactme@vanoss.cloud (Brady Van Oss)</author>
+      <guid>http://localhost:1313/posts/2025/astroneer-fsr/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
